@@ -1,1 +1,1 @@
-# masterc.github.io
+# masterclass.github.io
